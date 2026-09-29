@@ -1,0 +1,6 @@
+{
+  "name": "Executive Distribution & Logistics Dashboard",
+  "description": "Executive Distribution & Logistics Dashboard terintegrasi Google Sheets, analisis performa transporter, laporan logistik, dan mode terang & gelap elegan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
